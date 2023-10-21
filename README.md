@@ -14,17 +14,23 @@ I'm building a software in order to track my grocery inventory, Being able to kn
  ![image](https://github.com/kada2004/Grocery-Inventory-/assets/117305234/a14723ba-1f91-4dfc-9b6e-7efba0513550)
 
  ## Features
+ 
 . Input informations for up to 5 grocery items.
+
 . Save the data to an Excel file.
+
 . Display the saved data in a text box.
+
 . Set default value for input fields
 
 ## How to run the Program
 
 1. Make sure you have Python installed on you system.
+
 2. Install pandas library for handly the data and Tkinter for the GUI
 
 ## Important Notes
+
 . The data is saved to Excel file as path adjust to my system, please make sure to adjust this path as per your system's requirements
 . This code is a preliminary version and requires further improvements to make it bug-frre. I am currently working on refining it
 
