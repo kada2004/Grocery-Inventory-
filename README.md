@@ -36,7 +36,7 @@ I'm building a software in order to track my grocery inventory, Being able to kn
 
 I'm open to collaboration and welcome any advice or suggestions for further imporovemenents in this code.
 
-Feel free to use this code and modify as per you needs.
+Feel free to use this code and modify it as per your needs.
 
 Enjoy tracking and managing your grocery inventory :)
 
